@@ -1,5 +1,5 @@
 {
-  "name": "demo-microservices-project",
+  "name": "microservices-101-ada",
   "buildpacks": [
     {
       "url": "heroku/gradle"
